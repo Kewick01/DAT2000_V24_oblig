@@ -1,2 +1,2 @@
-# DAT2000_V24_oblig
-Utgangspunkt for siste del av obligatorisk oppgave
+# Utgangspunkt for del 2 av obligatorisk oppgave i DAT2000
+# Se oppgavetekst i canvas
